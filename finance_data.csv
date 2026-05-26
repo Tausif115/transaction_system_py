@@ -1,0 +1,31 @@
+date,amount,category,description
+20-03-2026,125.06,Income,Salary
+02-02-2026,300.0,Income,Freelance Project
+19-05-2026,221.0,Expense,Game
+25-01-2026,1500.0,Income,Bonus
+11-04-2026,75.5,Expense,Coffee
+14-04-2026,450.0,Expense,Grocery
+18-04-2026,1200.0,Income,Tuition
+22-04-2026,89.99,Expense,Internet Bill
+25-04-2026,45.0,Expense,Snacks
+28-04-2026,650.0,Income,Part Time Job
+01-05-2026,230.0,Expense,Electricity Bill
+03-05-2026,150.0,Expense,Restaurant
+05-05-2026,999.0,Expense,Headphones
+07-05-2026,5000.0,Income,Scholarship
+09-05-2026,320.0,Expense,Shopping
+12-05-2026,110.0,Expense,Transport
+15-05-2026,800.0,Income,Online Course Sale
+18-05-2026,60.0,Expense,Movie
+20-05-2026,175.0,Expense,Books
+23-05-2026,2500.0,Income,Internship
+26-05-2026,95.0,Expense,Mobile Recharge
+29-05-2026,430.0,Expense,Medical
+01-06-2026,700.0,Income,Gift
+03-06-2026,140.0,Expense,Fuel
+06-06-2026,210.0,Expense,Gym Membership
+09-06-2026,3200.0,Income,Client Payment
+12-06-2026,88.0,Expense,Stationery
+15-06-2026,145.0,Expense,Taxi
+18-06-2026,600.0,Income,Contest Prize
+20-06-2026,199.0,Expense,Netflix Subscription
